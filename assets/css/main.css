@@ -33,6 +33,13 @@ body {
 	line-height: 1;
 }
 
+.message {
+	background-color: yellow;
+	color: red;
+	font-size:30px;
+	font-weight: bold;
+}
+
 ol, ul {
 	list-style: none;
 }
